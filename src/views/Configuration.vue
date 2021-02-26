@@ -20,7 +20,7 @@
                 waypoint.extensions.relativeBearing
               }}</span
             >
-            <p class="caption">{{dTools.GPSPoint.latString(waypoint.lat)}} --  {{ dTools.GPSPoint.latString(waypoint.lon) }}</p>
+            <p class="caption">{{dTools.GPSPoint.toDMDecimal(waypoint.lat)}} [*] {{ dTools.GPSPoint.toDMDecimal(waypoint.lon) }}</p>
           </v-col>
 
           <v-col cols="2">
@@ -56,7 +56,7 @@
 <script>
 import MYC from "../assets/waypoints.json";
 import EditWaypoint from "../components/Waypoint";
-import * as dTools from "../plugins/GPSPoint";
+import * as dTools from "red-regatta";
 
 
 export default {

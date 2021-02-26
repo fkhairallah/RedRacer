@@ -57,7 +57,7 @@
 
 <script>
 import EditWaypoint from "../components/Waypoint";
-import * as dTools from "../plugins/GPSPoint";
+import * as dTools from "red-regatta";
 
 export default {
   name: "Starting",
@@ -81,7 +81,7 @@ export default {
       var d = Math.trunc(ptCoord); // integer part is Degrees
       var m = (ptCoord - d) * 60; // fractional part in minutes
       //return d.toString() + "° " + Math.abs(m).toFixed(3) + "'";
-      return dTools.GPSPoint.latString(this.myc.lat);
+      return dTools.GPSPoint.toDMDecimal(this.myc.lat);
     },
     myGlobalCount() {
       return this.$store.state.count;
