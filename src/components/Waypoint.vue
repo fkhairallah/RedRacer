@@ -96,7 +96,7 @@ export default {
 
   mounted() {
     //console.log(this.$options.name + " mounted!", waypointIndex);
-    console.log("CONT:",this.container);
+
   },
 };
 </script>

@@ -3,77 +3,77 @@
     "waypoints": [
         {
             "name": "Middle Ground",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.06982",
             "lon": "-73.08654"
         },
         {
             "name": "Middleground Lighthouse",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.05982",
             "lon": "-73.101355"
         },
         {
             "name": "Charles Bell",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.183958333",
             "lon": "-73.05161"
         },
         {
             "name": "East of Charles",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.193433333",
             "lon": "-73.050883333"
         },
         {
             "name": "NH Whistle",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.202048333",
             "lon": "-72.896393333"
         },
         {
             "name": "Pond Pt",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.197933333",
             "lon": "-73.016603333"
         },
         {
             "name": "Welches",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.198671667",
             "lon": "-73.03655"
         },
         {
             "name": "Milford Entrance",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.204305",
             "lon": "-73.04924"
         },
         {
             "name": "NH West Brkr",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.221216667",
             "lon": "-72.942335"
         },
         {
             "name": "Housatonic River",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.156636667",
             "lon": "-73.090638333"
         },
         {
             "name": "Point no Point",
-            "description": "null",
+            "description": "",
             "time": "2015-08-23T20:39:06Z",
             "lat": "41.113625",
             "lon": "-73.135938333"
@@ -948,7 +948,7 @@
         },
         {
             "name": "D",
-            "description": "null",
+            "description": "",
             "time": "2017-05-27T19:00:02Z",
             "extensions": {
                 "ismark": "true",
@@ -962,7 +962,7 @@
         },
         {
             "name": "E",
-            "description": "null",
+            "description": "",
             "time": "2017-05-27T19:00:06Z",
             "extensions": {
                 "ismark": "true",
@@ -976,7 +976,7 @@
         },
         {
             "name": "H",
-            "description": "null",
+            "description": "",
             "time": "2017-05-27T19:00:09Z",
             "extensions": {
                 "ismark": "true",
@@ -990,7 +990,7 @@
         },
         {
             "name": "N",
-            "description": "null",
+            "description": "",
             "time": "2014-07-03T15:27:52Z",
             "extensions": {
                 "ismark": "true",
@@ -1004,7 +1004,7 @@
         },
         {
             "name": "P",
-            "description": "null",
+            "description": "",
             "time": "2014-07-03T15:28:03Z",
             "extensions": {
                 "ismark": "true",
@@ -1018,7 +1018,7 @@
         },
         {
             "name": "W",
-            "description": "null",
+            "description": "",
             "time": "2014-07-03T15:28:14Z",
             "extensions": {
                 "ismark": "true",
@@ -1032,7 +1032,7 @@
         },
         {
             "name": "K",
-            "description": "null",
+            "description": "",
             "time": "2014-07-03T15:30:13Z",
             "extensions": {
                 "ismark": "true",
@@ -1046,7 +1046,7 @@
         },
         {
             "name": "X",
-            "description": "null",
+            "description": "",
             "time": "2014-08-01T20:31:50Z",
             "extensions": {
                 "ismark": "true",
@@ -1060,7 +1060,7 @@
         },
         {
             "name": "M",
-            "description": "null",
+            "description": "",
             "time": "2014-08-01T20:31:42Z",
             "extensions": {
                 "ismark": "true",
@@ -1074,7 +1074,7 @@
         },
         {
             "name": "R",
-            "description": "null",
+            "description": "",
             "time": "2014-08-01T20:32:53Z",
             "extensions": {
                 "ismark": "true",
@@ -1088,7 +1088,7 @@
         },
         {
             "name": "Y",
-            "description": "null",
+            "description": "",
             "time": "2014-08-01T20:33:25Z",
             "extensions": {
                 "ismark": "true",
@@ -1102,7 +1102,7 @@
         },
         {
             "name": "T",
-            "description": "null",
+            "description": "",
             "time": "2014-08-01T20:33:55Z",
             "extensions": {
                 "ismark": "true",
@@ -1116,7 +1116,7 @@
         },
         {
             "name": "Z",
-            "description": "null",
+            "description": "",
             "time": "2014-08-01T20:34:12Z",
             "extensions": {
                 "ismark": "true",
