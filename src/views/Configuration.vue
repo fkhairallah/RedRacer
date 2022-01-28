@@ -56,7 +56,7 @@
 <script>
 import MYC from "../assets/waypoints.json";
 import EditWaypoint from "../components/Waypoint";
-import * as dTools from "red-regatta";
+import * as dTools from "red-regatta/src/index.ts";
 
 
 export default {
